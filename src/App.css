@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 800px;
+}
+
+.new-task {
+  width: 40%;
+  border: 1px solid black;
+}
+
+.to-do-list {
+  width: 60%;
+  border: 1px solid black;
+  overflow-x: auto;
+}
